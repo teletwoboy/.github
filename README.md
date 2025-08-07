@@ -26,6 +26,9 @@ This repository builds a Docker image for applying db migrations
 
 - [charts](https://github.com/teletwoboy/charts)   
 Helm charts for deploying the plugin server and migration in a Kubernetes environment.
+
+<br>
+
 ## 🔧 Architecture
 
 <br>
