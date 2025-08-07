@@ -1,6 +1,7 @@
 # Welcome to Teletwoboy
 ## 📝 Introduce
-At TeletwoBoy, we're focused on developing a solution that enables access-related functionalities in the open-source version of Teleport to be managed directly from Slack. This solution also logs the data for auditing purposes.
+At TeletwoBoy, we're focused on developing a solution that enables access-related functionalities in the open-source version of Teleport to be managed directly from Slack. 
+This solution also logs the data for auditing purposes.
    
 ## 🗂️ Our Repositories
 - [teleport-plugin-slack-access-request](https://github.com/teletwoboy/teleport-plugin-slack-access-request)   
