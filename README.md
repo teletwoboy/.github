@@ -31,6 +31,10 @@ Helm charts for deploying the plugin server and migration in a Kubernetes enviro
 
 ## 🔧 Architecture
 
+1. **Development**
+
+   <img width="2051" height="1045" alt="image" src="https://github.com/user-attachments/assets/070e251a-7488-49e7-a67e-cfabb412de7f" />
+
 <br>
 
 ## 👥 Member
