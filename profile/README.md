@@ -35,7 +35,7 @@ Helm charts for deploying the plugin server and migration in a Kubernetes enviro
 
 1. **Development**
 
-   <img width="1369" height="698" alt="image" src="https://github.com/user-attachments/assets/32567cca-6071-4d1d-940c-dccdf7ba4f5a" />
+   <img width="1307" height="665" alt="image" src="https://github.com/user-attachments/assets/132af09f-c450-4858-9fea-0cbbf241592e" />
 
 2. **Production Versioning & Using**
 
