@@ -15,6 +15,8 @@
 At TeletwoBoy, we're focused on developing a solution that enables access-related functionalities in the open-source version of Teleport to be managed directly from Slack. 
 This solution also logs the data for auditing purposes.
 
+Our project simplifies access control by allowing users to request and manage system permissions directly through chat platforms. This ChatOps model streamlines the traditional administrative workflow, making it easier for teams to collaborate and manage infrastructure. By using familiar messenger interfaces, we eliminate the need for complex, separate tools.
+
 <br>
 
 ## 🗂️ Our Repositories
