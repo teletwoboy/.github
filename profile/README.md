@@ -26,7 +26,7 @@ Go-based Teleport plugin server developed by teletwoboy. It provides convenient 
 - [teleport-plugin-slack-access-request-migration](https://github.com/teletwoboy/teleport-plugin-slack-access-request-migration)   
 This repository builds a Docker image for applying db migrations   
 
-- [charts](https://github.com/teletwoboy/charts)   
+- [teleport-plugin-slack-access-request-helm](https://github.com/teletwoboy/teleport-plugin-slack-access-request-helm)   
 Helm charts for deploying the plugin server and migration in a Kubernetes environment.
 
 <br>
